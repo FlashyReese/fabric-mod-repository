@@ -1,14 +1,14 @@
 [
 	{
 		"type":"author",
-		"jsonUrl":"https://github.com/FlashyReese/fabric-mod-repository/blob/master/authors/JellySquid.json"
+		"jsonUrl":"https://raw.githubusercontent.com/FlashyReese/fabric-mod-repository/master/authors/JellySquid.json"
 	},
 	{
 		"type":"author",
-		"jsonUrl":"https://github.com/FlashyReese/fabric-mod-repository/blob/master/authors/LambdAurora.json"
+		"jsonUrl":"https://raw.githubusercontent.com/FlashyReese/fabric-mod-repository/master/authors/LambdAurora.json"
 	},
 	{
 		"type":"author",
-		"jsonUrl":"https://github.com/FlashyReese/fabric-mod-repository/blob/master/authors/Prospector.json"
+		"jsonUrl":"https://raw.githubusercontent.com/FlashyReese/fabric-mod-repository/master/authors/Prospector.json"
 	}
 ]
