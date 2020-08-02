@@ -101,10 +101,6 @@
 				{
 					"minecraftVersion": "1.16.1",
 					"modVersions": [
-						{
-							"modVersion": "",
-							"modUrl": "https://github.com/jellysquid3/phosphor-fabric/releases/download/mc1.16.1-v0.6.0/phosphor-fabric-mc1.16.1-0.6.0+build.7.jar"
-						}
 					]
 				}
 			]
