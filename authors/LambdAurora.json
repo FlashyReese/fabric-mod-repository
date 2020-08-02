@@ -8,6 +8,7 @@
 			"name": "LambDynamicLights",
 			"description": "Adds dynamic lights to the game.",
 			"iconUrl": "https://github.com/LambdAurora/LambDynamicLights/raw/mc1.16/src/main/resources/assets/lambdynlights/icon.png",
+			"sources": "https://github.com/LambdAurora/LambDynamicLights",
 			"id": "lambdynlights",
 			"minecraftVersions": [
 				{
@@ -37,6 +38,7 @@
 			"name": "LambdaControls",
 			"description": "Adds better controls: controller and touchscreen support.",
 			"iconUrl": "https://github.com/LambdAurora/LambdaControls/raw/1.16/fabric/src/main/resources/assets/lambdacontrols/icon_x400.png",
+			"sources": "https://github.com/LambdAurora/LambdaControls",
 			"id": "lambdacontrols",
 			"minecraftVersions": [
 				{
@@ -96,12 +98,12 @@
 			"name": "LambdaBetterGrass",
 			"description": "Adds actual better grass.",
 			"iconUrl": "https://github.com/LambdAurora/LambdaBetterGrass/raw/mc1.16/src/main/resources/assets/lambdabettergrass/icon.png",
+			"sources": "https://github.com/LambdAurora/LambdaBetterGrass",
 			"id": "lambdabettergrass",
 			"minecraftVersions": [
 				{
 					"minecraftVersion": "1.16.1",
-					"modVersions": [
-					]
+					"modVersions": []
 				}
 			]
 		}

@@ -10,6 +10,7 @@
 			"name": "Sodium",
 			"description": "Sodium is an free and open-source optimization mod for Minecraft which improves frame rates and reduces lag spikes.",
 			"iconUrl": "https://github.com/jellysquid3/sodium-fabric/raw/1.16.x/dev/src/main/resources/assets/sodium/icon.png",
+			"sources": "https://github.com/jellysquid3/sodium-fabric",
 			"id": "sodium",
 			"minecraftVersions": [
 				{
@@ -28,6 +29,7 @@
 			"name": "Lithium",
 			"description": "Lithium is an free and open-source optimization mod for Minecraft which makes a wide range of performance improvements to the game.",
 			"iconUrl": "https://github.com/jellysquid3/lithium-fabric/raw/1.16.x/dev/src/main/resources/assets/lithium/icon.png",
+			"sources": "https://github.com/jellysquid3/lithium-fabric",
 			"id": "lithium",
 			"minecraftVersions": [
 				{
@@ -66,6 +68,7 @@
 			"name": "Phosphor",
 			"description": "Phosphor is an optimization mod for Minecraft which improves the performance of the lighting engine, resulting in significantly reduced world generation times and improved server tick rates.",
 			"iconUrl": "https://github.com/jellysquid3/phosphor-fabric/raw/1.16.x/dev/src/main/resources/assets/phosphor/icon.png",
+			"sources": "https://github.com/jellysquid3/phosphor-fabric",
 			"id": "phosphor",
 			"minecraftVersions": [
 				{

@@ -8,6 +8,7 @@
 			"name": "Mod Menu",
 			"description": "Adds a mod menu to view the list of mods you have installed.",
 			"iconUrl": "https://github.com/Prospector/ModMenu/raw/1.16/src/main/resources/assets/modmenu/icon.png",
+			"sources": "https://github.com/Prospector/ModMenu",
 			"id": "modmenu",
 			"minecraftVersions": [
 				{
