@@ -1,0 +1,92 @@
+[
+	{
+		"name": "JellySquid",
+		"contacts": {
+			"discordUrl": "https://jellysquid.me/discord",
+			"patreonUrl": "https://patreon.com/jellysquid",
+			"githubUrl": "https://github.com/jellysquid3"
+		},
+		"projects": [
+			{
+				"id": "lithium",
+				"name": "Lithium",
+				"description": "Lithium is an free and open-source optimization mod for Minecraft which makes a wide range of performance improvements to the game.",
+				"iconUrl": "https://github.com/jellysquid3/lithium-fabric/raw/1.16.x/dev/src/main/resources/assets/lithium/icon.png",
+				"sourcesUrl": "https://github.com/jellysquid3/lithium-fabric",
+				"curseForgeProject": 360438
+			},
+			{
+				"id": "phosphor",
+				"name": "Phosphor",
+				"description": "Phosphor is an optimization mod for Minecraft which improves the performance of the lighting engine, resulting in significantly reduced world generation times and improved server tick rates.",
+				"iconUrl": "https://github.com/jellysquid3/phosphor-fabric/raw/1.16.x/dev/src/main/resources/assets/phosphor/icon.png",
+				"sourcesUrl": "https://github.com/jellysquid3/phosphor-fabric",
+				"curseForgeProject": 372124
+			},
+			{
+				"id": "sodium",
+				"name": "Sodium",
+				"description": "Sodium is an free and open-source optimization mod for Minecraft which improves frame rates and reduces lag spikes.",
+				"iconUrl": "https://github.com/jellysquid3/sodium-fabric/raw/1.16.x/dev/src/main/resources/assets/sodium/icon.png",
+				"sourcesUrl": "https://github.com/jellysquid3/sodium-fabric",
+				"curseForgeProject": 394468
+			}
+		]
+	},
+	{
+		"name": "LambdAurora",
+		"contacts": {
+			"githubUrl": "https://github.com/LambdAurora"
+		},
+		"projects": [
+			{
+				"id": "lambdynlights",
+				"name": "LambDynamicLights",
+				"description": "Adds dynamic lights to the game.",
+				"iconUrl": "https://github.com/LambdAurora/LambDynamicLights/raw/mc1.16/src/main/resources/assets/lambdynlights/icon.png",
+				"sourcesUrl": "https://github.com/LambdAurora/LambDynamicLights",
+				"curseForgeProject": 393442
+			},
+			{
+				"id": "lambdacontrols",
+				"name": "LambdaControls",
+				"description": "Adds better controls: controller and touchscreen support.",
+				"iconUrl": "https://github.com/LambdAurora/LambdaControls/raw/1.16/fabric/src/main/resources/assets/lambdacontrols/icon_x400.png",
+				"sourcesUrl": "https://github.com/LambdAurora/LambdaControls",
+				"curseForgeProject": 354231
+			},
+			{
+				"id": "lambdabettergrass",
+				"name": "LambdaBetterGrass",
+				"description": "Adds actual better grass.",
+				"iconUrl": "https://github.com/LambdAurora/LambdaBetterGrass/raw/mc1.16/src/main/resources/assets/lambdabettergrass/icon.png",
+				"sourcesUrl": "https://github.com/LambdAurora/LambdaBetterGrass",
+				"curseForgeProject": -1
+			},
+			{
+				"id": "aurora_keystrokes",
+				"name": "AuroraKeystrokes",
+				"description": "Displays the movement keys and mouse clicks on screen.",
+				"iconUrl": "https://raw.githubusercontent.com/LambdAurora/AuroraKeystrokes/1.16/src/main/resources/assets/aurora_keystrokes/icon.png",
+				"sourcesUrl": "https://raw.githubusercontent.com/LambdAurora/AuroraKeystrokes",
+				"curseForgeProject": 352659
+			}
+		]
+	},
+	{
+		"name": "Prospector",
+		"contacts": {
+			"githubUrl": "https://github.com/Prospector"
+		},
+		"projects": [
+			{
+				"id": "modmenu",
+				"name": "Mod Menu",
+				"description": "Adds a mod menu to view the list of mods you have installed.",
+				"iconUrl": "https://github.com/Prospector/ModMenu/raw/1.16/src/main/resources/assets/modmenu/icon.png",
+				"sources": "https://github.com/Prospector/ModMenu",
+				"curseForgeProject": 308702
+			}
+		]
+	}
+]
