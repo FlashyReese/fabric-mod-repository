@@ -1,9 +1,77 @@
 [
 	{
+		"name": "FabricMC",
+		"contacts": {
+			"discordUrl": "https://discord.gg/v6v4pMv",
+			"websiteUrl": "https://fabricmc.net",
+			"githubUrl": "https://github.com/FabricMC"
+		},
+		"projects": [
+			{
+				"id": "fabric",
+				"name": "Fabric API",
+				"description": "Core API module providing key hooks and intercompatibility features.",
+				"iconUrl": "https://raw.githubusercontent.com/FabricMC/fabric/1.16/src/main/resources/assets/fabric/icon.png",
+				"sourcesUrl": "https://github.com/FabricMC/fabric",
+				"curseForgeProject": 306612
+			},
+			{
+				"id": "fabric-language-kotlin",
+				"name": "Fabric Language Kotlin",
+				"description": "Fabric language module for Kotlin.",
+				"iconUrl": "https://raw.githubusercontent.com/FabricMC/fabric-language-kotlin/master/src/main/resources/assets/fabric-language-kotlin/icon512.png",
+				"sourcesUrl": "https://github.com/FabricMC/fabric-language-kotlin",
+				"curseForgeProject": 308769
+			}
+		]
+	},
+	{
+		"name": "shedaniel",
+		"contacts": {
+			"discordUrl": "https://discord.gg/rbxu4Fk",
+			"githubUrl": "https://github.com/shedaniel"
+		},
+		"projects": [
+			{
+				"id": "cloth-api",
+				"name": "Cloth API",
+				"description": "Generalized API for Fabric.",
+				"iconUrl": "https://raw.githubusercontent.com/shedaniel/cloth-api/1.16/src/main/resources/icon.png",
+				"sourcesUrl": "https://github.com/shedaniel/cloth-api",
+				"curseForgeProject": 317121
+			},
+			{
+				"id": "cloth-config2",
+				"name": "Cloth Config v4",
+				"description": "An API for config screens.",
+				"iconUrl": "https://raw.githubusercontent.com/shedaniel/cloth-config/v4/src/main/resources/icon.png",
+				"sourcesUrl": "https://github.com/FabricMC/fabric-language-kotlin",
+				"curseForgeProject": 319057
+			},
+			{
+				"id": "autoconfig1u",
+				"name": "Auto Config v1 Updated",
+				"description": "Annotation based API for mod configs, with Cloth Config GUI integration",
+				"iconUrl": "https://raw.githubusercontent.com/shedaniel/AutoConfig/1.16/src/main/resources/assets/autoconfig1u/icon.png",
+				"sourcesUrl": "https://github.com/shedaniel/AutoConfig",
+				"curseForgeProject": 373261
+			},
+			{
+				"id": "roughlyenoughitems",
+				"name": "Roughly Enough Items",
+				"description": "To allow players to view items and recipes.",
+				"iconUrl": "https://raw.githubusercontent.com/shedaniel/RoughlyEnoughItems/5.x/src/main/resources/icon.png",
+				"sourcesUrl": "https://github.com/shedaniel/RoughlyEnoughItems",
+				"curseForgeProject": 310111
+			}
+		]
+	},
+	{
 		"name": "JellySquid",
 		"contacts": {
 			"discordUrl": "https://jellysquid.me/discord",
 			"patreonUrl": "https://patreon.com/jellysquid",
+			"websiteUrl": "https://jellysquid.me",
 			"githubUrl": "https://github.com/jellysquid3"
 		},
 		"projects": [
@@ -84,8 +152,64 @@
 				"name": "Mod Menu",
 				"description": "Adds a mod menu to view the list of mods you have installed.",
 				"iconUrl": "https://github.com/Prospector/ModMenu/raw/1.16/src/main/resources/assets/modmenu/icon.png",
-				"sources": "https://github.com/Prospector/ModMenu",
+				"sourcesUrl": "https://github.com/Prospector/ModMenu",
 				"curseForgeProject": 308702
+			}
+		]
+	},
+	{
+		"name": "gnembon",
+		"contacts": {
+			"githubUrl": "https://github.com/gnembon"
+		},
+		"projects": [
+			{
+				"id": "carpet",
+				"name": "Carpet",
+				"description": "Carpet Mod is a mod for vanilla Minecraft that allows you to take full control of what matters from a technical perspective of the game.",
+				"iconUrl": "https://raw.githubusercontent.com/gnembon/fabric-carpet/master/src/main/resources/assets/carpet/icon.png",
+				"sourcesUrl": "https://github.com/gnembon/fabric-carpet",
+				"curseForgeProject": 349239
+			}
+		]
+	},
+	{
+		"name": "LogicalGeekBoy",
+		"contacts": {
+			"githubUrl": "https://github.com/LogicalGeekBoy"
+		},
+		"projects": [
+			{
+				"id": "logical_zoom",
+				"name": "Logical Zoom",
+				"description": "This is a simple Minecraft Fabic mod that adds a configurable zoom key.",
+				"iconUrl": "https://raw.githubusercontent.com/LogicalGeekBoy/logical_zoom/master/src/main/resources/assets/logical_zoom/icon.png",
+				"sourcesUrl": "https://github.com/LogicalGeekBoy/logical_zoom",
+				"curseForgeProject": 356461
+			}
+		]
+	},
+	{
+		"name": "Team Reborn",
+		"contacts": {
+			"githubUrl": "https://github.com/TechReborn"
+		},
+		"projects": [
+			{
+				"id": "techreborn",
+				"name": "Tech Reborn",
+				"description": "Tech Reborn is a completely standalone tech mod including tools and machines to gather resources, process materials, and progress through the mod.",
+				"iconUrl": "https://raw.githubusercontent.com/TechReborn/TechReborn/1.16/src/main/resources/assets/techreborn/icon.png",
+				"sourcesUrl": "https://github.com/TechReborn/TechReborn",
+				"curseForgeProject": 233564
+			},
+			{
+				"id": "reborncore",
+				"name": "Reborn Core",
+				"description": "Reborn Core is a library used for many of the Tech Reborn team's mods, including Tech Reborn, Quantum Storage, Fluxed Redstone, Hardcore Map Reset, and many more.",
+				"iconUrl": "https://raw.githubusercontent.com/TechReborn/RebornCore/1.16/src/main/resources/assets/reborncore/icon.png",
+				"sourcesUrl": "https://github.com/TechReborn/RebornCore",
+				"curseForgeProject": 237903
 			}
 		]
 	}
