@@ -194,5 +194,36 @@
 				"curseForgeProject": 237903
 			}
 		]
+	},
+	{
+		"name": "Fox2Code",
+		"contacts": {
+			"githubUrl": "https://github.com/Fox2Code"
+		},
+		"projects": [
+			{
+				"id": "fabriczero",
+				"name": "Fabric Zero",
+				"description": "Compatibility and performance enhancement mod",
+				"sourcesUrl": "https://github.com/Fox2Code/FabricZero",
+				"curseForgeProject": 400444
+			}
+		]
+	},
+	{
+		"name": "TheBrokenRail",
+		"contacts": {
+			"githubUrl": "https://github.com/TheBrokenRail",
+			"websiteUrl": "https://thebrokenrail.com"
+		},
+		"projects": [
+			{
+				"id": "modupdater",
+				"name": "ModUpdater",
+				"description": "A simple Minecraft mod updater.",
+				"sourcesUrl": "https://gitea.thebrokenrail.com/TheBrokenRail/ModUpdater",
+				"curseForgeProject": 391583
+			}
+		]
 	}
 ]
