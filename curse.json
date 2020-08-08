@@ -161,7 +161,13 @@
 	{
 		"name": "LogicalGeekBoy",
 		"contacts": {
-			"githubUrl": "https://github.com/LogicalGeekBoy"
+			"githubUrl": "https://github.com/LogicalGeekBoy",
+			"discordUrl": "https://discord.gg/FnYSbKF",
+			"patreonUrl": "https://patreon.com/logicalgeekboy",
+			"websiteUrl": "https://logicalgeekboy.com",
+			"twitchUrl": "https://twitch.tv/logicalgeekboy",
+			"twitterUrl": "https://twitter.com/logicalgeekboy",
+			"youtubeUrl": "https://youtube.com/logicalgeekboy"
 		},
 		"projects": [
 			{
