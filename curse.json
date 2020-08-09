@@ -157,7 +157,7 @@
 				"curseForgeProject": 349239
 			},
 			{
-				"id":"carpet-extra"
+				"id":"carpet-extra",
 				"name": "Carpet Extra",
 				"description": "Additional, less vanilla additions to the carpet mod.",
 				"sourcesUrl": "https://github.com/gnembon/carpet-extra",
