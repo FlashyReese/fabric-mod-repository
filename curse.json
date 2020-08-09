@@ -155,6 +155,13 @@
 				"description": "Carpet Mod is a mod for vanilla Minecraft that allows you to take full control of what matters from a technical perspective of the game.",
 				"sourcesUrl": "https://github.com/gnembon/fabric-carpet",
 				"curseForgeProject": 349239
+			},
+			{
+				"id":"carpet-extra"
+				"name": "Carpet Extra",
+				"description": "Additional, less vanilla additions to the carpet mod.",
+				"sourcesUrl": "https://github.com/gnembon/carpet-extra",
+				"curseForgeProject": 349240
 			}
 		]
 	},
