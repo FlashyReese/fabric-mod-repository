@@ -157,7 +157,7 @@
 				"curseForgeProject": 349239
 			},
 			{
-				"id":"carpet-extra",
+				"id": "carpet-extra",
 				"name": "Carpet Extra",
 				"description": "Additional, less vanilla additions to the carpet mod.",
 				"sourcesUrl": "https://github.com/gnembon/carpet-extra",
@@ -236,6 +236,82 @@
 				"description": "A simple Minecraft mod updater.",
 				"sourcesUrl": "https://gitea.thebrokenrail.com/TheBrokenRail/ModUpdater",
 				"curseForgeProject": 391583
+			}
+		]
+	},
+	{
+		"name": "kvverti",
+		"contacts": {
+			"githubUrl": "https://github.com/kvverti"
+		},
+		"projects": [
+			{
+				"id": "colormatic",
+				"name": "Colormatic",
+				"description": "Adds the ability to customize colors hardcoded in vanilla.",
+				"sourcesUrl": "https://github.com/kvverti/colormatic",
+				"curseForgeProject": 325092
+			}
+		]
+	},
+	{
+		"name": "Draylar",
+		"contacts": {
+			"githubUrl": "https://github.com/Draylar",
+			"websiteUrl": "https://www.draylar.dev/"
+		},
+		"projects": [
+			{
+				"id": "soaring-clouds",
+				"name": "Soaring Clouds",
+				"description": "Allows you to configure the height of clouds in the world.",
+				"sourcesUrl": "https://github.com/Draylar/soaring-clouds",
+				"curseForgeProject": 390427
+			}
+		]
+	},
+	{
+		"name": "grondag",
+		"contacts": {
+			"githubUrl": "https://github.com/grondag"
+		},
+		"projects": [
+			{
+				"id": "canvas",
+				"name": "Canvas Renderer",
+				"description": "Minecraft Renderer for Fabric supporting the FREX API",
+				"sourcesUrl": "https://github.com/grondag/canvas",
+				"curseForgeProject": 318440
+			}
+		]
+	},
+	{
+		"name": "joaoh1",
+		"contacts": {
+			"githubUrl": "https://github.com/joaoh1"
+		},
+		"projects": [
+			{
+				"id": "okzoomer",
+				"name": "Ok Zoomer",
+				"description": "The next generation of Ok Zoomer, currently in alpha stages! This mod adds a highly configurable zoom button. By default, it provides its own take on zooming, however, with the mod's config, you can drastically change the zoom with something more familiar or useful.",
+				"sourcesUrl": "https://github.com/joaoh1/OkZoomer",
+				"curseForgeProject": 354047
+			}
+		]
+	},
+	{
+		"name": "joaoh1",
+		"contacts": {
+			"githubUrl": "https://github.com/joaoh1"
+		},
+		"projects": [
+			{
+				"id": "okzoomer",
+				"name": "Ok Zoomer",
+				"description": "The next generation of Ok Zoomer, currently in alpha stages! This mod adds a highly configurable zoom button. By default, it provides its own take on zooming, however, with the mod's config, you can drastically change the zoom with something more familiar or useful.",
+				"sourcesUrl": "https://github.com/joaoh1/OkZoomer",
+				"curseForgeProject": 354047
 			}
 		]
 	}
