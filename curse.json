@@ -57,6 +57,13 @@
 				"description": "To allow players to view items and recipes.",
 				"sourcesUrl": "https://github.com/shedaniel/RoughlyEnoughItems",
 				"curseForgeProject": 310111
+			},
+			{
+				"id": "lightoverlay",
+				"name": "Light Overlay",
+				"description": "To provide users with NEI-like light overlay.",
+				"sourcesUrl": "https://github.com/shedaniel/LightOverlay",
+				"curseForgeProject": 325492
 			}
 		]
 	},
@@ -297,6 +304,265 @@
 				"description": "The next generation of Ok Zoomer, currently in alpha stages! This mod adds a highly configurable zoom button. By default, it provides its own take on zooming, however, with the mod's config, you can drastically change the zoom with something more familiar or useful.",
 				"sourcesUrl": "https://github.com/joaoh1/OkZoomer",
 				"curseForgeProject": 354047
+			}
+		]
+	},
+	{
+		"name": "squeek502",
+		"contacts": {
+			"githubUrl": "https://github.com/squeek502"
+		},
+		"projects": [
+			{
+				"id": "appleskin",
+				"name": "AppleSkin",
+				"description": "Adds various food-related HUD improvements",
+				"sourcesUrl": "https://github.com/squeek502/AppleSkin",
+				"curseForgeProject": 248787
+			}
+		]
+	},
+	{
+		"name": "EngineHub",
+		"contacts": {
+			"githubUrl": "https://github.com/EngineHub"
+		},
+		"projects": [
+			{
+				"id": "worldedit",
+				"name": "WorldEdit",
+				"description": "WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single- and multi-player.",
+				"sourcesUrl": "https://github.com/EngineHub/WorldEdit",
+				"curseForgeProject": 225608
+			}
+		]
+	},
+	{
+		"name": "AntiqueAtlasTeam",
+		"contacts": {
+			"githubUrl": "https://github.com/AntiqueAtlasTeam"
+		},
+		"projects": [
+			{
+				"id": "antiqueatlas",
+				"name": "Antique Atlas",
+				"description": "Antique Atlas is a book that acts like a map featuring infinite scrolling, zoom and custom labeled markers. The map is generated around the player by calculating the average biome in each 16x16 chunk.",
+				"sourcesUrl": "https://github.com/AntiqueAtlasTeam/AntiqueAtlas",
+				"curseForgeProject": 227795
+			}
+		]
+	},
+	{
+		"name": "TehNut",
+		"contacts": {
+			"githubUrl": "https://github.com/TehNut"
+		},
+		"projects": [
+			{
+				"id": "harvest",
+				"name": "Harvest",
+				"description": "Configurable right click crop harvesting",
+				"sourcesUrl": "https://github.com/TehNut/Harvest",
+				"curseForgeProject": 240783
+			},
+			{
+				"id": "soulshards",
+				"name": "Soul Shards Respawn",
+				"description": "Powerful spawners for any mob!",
+				"sourcesUrl": "https://github.com/TehNut/Soul-Shards-Respawn",
+				"curseForgeProject": 291549
+			}
+		]
+	},
+	{
+		"name": "CDAGaming",
+		"contacts": {
+			"gitlabUrl": "https://gitlab.com/CDAGaming"
+		},
+		"projects": [
+			{
+				"id": "craftpresence",
+				"name": "CraftPresence",
+				"description": "Completely Customize the way others see you play in Discord!",
+				"sourcesUrl": "https://gitlab.com/CDAGaming/CraftPresence",
+				"curseForgeProject": 297038
+			}
+		]
+	},
+	{
+		"name": "tterrag1098",
+		"contacts": {
+			"githubUrl": "https://github.com/tterrag1098"
+		},
+		"projects": [
+			{
+				"id": "blur",
+				"name": "Blur",
+				"description": "Modifies the background behind Minecraft GUIs to have a blur effect",
+				"sourcesUrl": "https://github.com/tterrag1098/Blur",
+				"curseForgeProject": 268324
+			}
+		]
+	},
+	{
+		"name": "maruohon",
+		"contacts": {
+			"githubUrl": "https://github.com/maruohon"
+		},
+		"projects": [
+			{
+				"id": "tellme",
+				"name": "TellMe",
+				"description": "Registry dumps and other information output",
+				"sourcesUrl": "https://github.com/maruohon/tellme",
+				"curseForgeProject": 225781
+			},
+			{
+				"id": "environmentalcreepers",
+				"name": "Environmental Creepers",
+				"description": "Allows tweaking Creeper (and other) explosion properties",
+				"sourcesUrl": "https://github.com/maruohon/environmentalcreepers",
+				"curseForgeProject": 246320
+			},
+			{
+				"id": "itemscroller",
+				"name": "Item Scroller",
+				"description": "Move items in inventory GUIs by scrolling the mouse wheel or dragging over slots",
+				"sourcesUrl": "https://github.com/maruohon/itemscroller",
+				"curseForgeProject": 242064
+			},
+			{
+				"id": "malilib",
+				"name": "MaLiLib",
+				"description": "A library mod required by masa's client-side mods",
+				"sourcesUrl": "https://github.com/maruohon/malilib",
+				"curseForgeProject": 303119
+			},
+			{
+				"id": "litematica",
+				"name": "Litematica",
+				"description": "A modern schematic mod for LiteLoader, Rift, Fabric etc.",
+				"sourcesUrl": "https://github.com/maruohon/litematica",
+				"curseForgeProject": 308892
+			}
+		]
+	},
+	{
+		"name": "ToroCraft",
+		"contacts": {
+			"githubUrl": "https://github.com/ToroCraft"
+		},
+		"projects": [
+			{
+				"id": "torohealth",
+				"name": "ToroHealth Damage Indicators",
+				"description": "Displays damage indicators and health bars for all entities.",
+				"sourcesUrl": "https://github.com/ToroCraft/ToroHealth",
+				"curseForgeProject": 245733
+			}
+		]
+	},
+	{
+		"name": "modmuss50",
+		"contacts": {
+			"githubUrl": "https://github.com/modmuss50"
+		},
+		"projects": [
+			{
+				"id": "simplevoidworld",
+				"name": "Simple Void World",
+				"description": "One simple block, One empty world.",
+				"sourcesUrl": "https://github.com/modmuss50/SimpleVoidWorld",
+				"curseForgeProject": 254466
+			},
+			{
+				"id": "justsleep",
+				"name": "Just Sleep",
+				"description": "Just sleep is a mod that changes the spawn point setting behaviour of beds.",
+				"sourcesUrl": "https://github.com/modmuss50/JustSleep",
+				"curseForgeProject": 307416
+			},
+			{
+				"id": "simplevoidworld",
+				"name": "Simple Void World",
+				"description": "One simple block, One empty world.",
+				"sourcesUrl": "https://github.com/modmuss50/SimpleVoidWorld",
+				"curseForgeProject": 254466
+			}
+		]
+	},
+	{
+		"name": "paulevsGitch",
+		"contacts": {
+			"githubUrl": "https://github.com/paulevsGitch"
+		},
+		"projects": [
+			{
+				"id": "betternether",
+				"name": "Better Nether",
+				"description": "Mod that improves Nether",
+				"sourcesUrl": "https://github.com/paulevsGitch/BetterNether",
+				"curseForgeProject": 311377
+			}
+		]
+	},
+	{
+		"name": "ChloeDawn",
+		"contacts": {
+			"githubUrl": "https://github.com/ChloeDawn"
+		},
+		"projects": [
+			{
+				"id": "iknowwhatimdoing",
+				"name": "I Know What I'm Doing",
+				"description": "Suppresses tutorial cards in fresh game instances",
+				"sourcesUrl": "https://github.com/ChloeDawn/IKnowWhatImDoing",
+				"curseForgeProject": 271492
+			}
+		]
+	},
+	{
+		"name": "AshIndigo",
+		"contacts": {
+			"githubUrl": "https://github.com/AshIndigo"
+		},
+		"projects": [
+			{
+				"id": "storagecabinet",
+				"name": "Storage Cabinet",
+				"description": "Adds a storage cabinet to Minecraft",
+				"sourcesUrl": "https://github.com/AshIndigo/Storage_Cabinet",
+				"curseForgeProject": 304889
+			}
+		]
+	},
+	{
+		"name": "legobmw99",
+		"contacts": {
+			"githubUrl": "https://github.com/legobmw99"
+		},
+		"projects": [
+			{
+				"id": "betterthanmending",
+				"name": "BetterThanMending",
+				"description": "A mod to improve the mending behavior in vanilla Minecraft, now for Fabric!",
+				"sourcesUrl": "https://github.com/legobmw99/BetterThanMending",
+				"curseForgeProject": 264738
+			}
+		]
+	},
+	{
+		"name": "Giselbaer",
+		"contacts": {
+			"githubUrl": "https://github.com/gbl"
+		},
+		"projects": [
+			{
+				"id": "durabilityviewer",
+				"name": "Giselbaers Durability Viewer",
+				"description": "Shows various things about the game:\n- the remaining/missing durability on your armor and tools\n- the amount of arrows in your inventory when you're wielding a bow\n- the number of empty inventory slots\n- timeouts for status effects",
+				"sourcesUrl": "https://github.com/gbl/DurabilityViewer",
+				"curseForgeProject": 262146
 			}
 		]
 	}
