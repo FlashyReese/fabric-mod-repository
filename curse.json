@@ -562,7 +562,8 @@
 	{
 		"name": "AppliedEnergistics",
 		"contacts": {
-			"githubUrl": "https://github.com/AppliedEnergistics"
+			"githubUrl": "https://github.com/AppliedEnergistics",
+			"websiteUrl": "https://ae-mod.info"
 		},
 		"projects": [
 			{
@@ -577,7 +578,8 @@
 	{
 		"name": "TerraformersMC",
 		"contacts": {
-			"githubUrl": "https://github.com/TerraformersMC"
+			"githubUrl": "https://github.com/TerraformersMC",
+			"discordUrl": "https://discord.gg/jEGF5fb"
 		},
 		"projects": [
 			{
