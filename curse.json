@@ -558,5 +558,56 @@
 				"curseForgeProject": 262146
 			}
 		]
+	},
+	{
+		"name": "AppliedEnergistics",
+		"contacts": {
+			"githubUrl": "https://github.com/AppliedEnergistics"
+		},
+		"projects": [
+			{
+				"id": "appliedenergistics2",
+				"name": "Applied Energistics 2",
+				"description": "A Mod about matter, energy and using them to conquer the world..",
+				"sourcesUrl": "https://github.com/AppliedEnergistics/Applied-Energistics-2",
+				"curseForgeProject": 223794
+			}
+		]
+	},
+	{
+		"name": "TerraformersMC",
+		"contacts": {
+			"githubUrl": "https://github.com/TerraformersMC"
+		},
+		"projects": [
+			{
+				"id": "terrestria",
+				"name": "Terrestria",
+				"description": "A vibrant biomes mod adding stunning and highly detailed biomes, inspired by aspects of ExtrabiomesXL and Redpower 2",
+				"sourcesUrl": "https://github.com/TerraformersMC/Terrestria",
+				"curseForgeProject": 323974
+			},
+			{
+				"id": "traverse",
+				"name": "Traverse",
+				"description": "A biome expansion mod that embraces the simplistic nature of Minecraft biomes",
+				"sourcesUrl": "https://github.com/TerraformersMC/Traverse",
+				"curseForgeProject": 308777
+			},
+			{
+				"id": "cinderscapes",
+				"name": "Cinderscapes",
+				"description": "An expansion of Minecraft's Nether biomes!",
+				"sourcesUrl": "https://github.com/terraformersmc/cinderscapes",
+				"curseForgeProject": 391429
+			},
+			{
+				"id": "campanion",
+				"name": "Campanion",
+				"description": "A camping companion that adds items and utilities to improve your life away from home.",
+				"sourcesUrl": "https://github.com/TerraformersMC/Campanion",
+				"curseForgeProject": 373138
+			}
+		]
 	}
 ]
