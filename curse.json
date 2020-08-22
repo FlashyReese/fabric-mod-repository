@@ -481,13 +481,6 @@
 				"description": "Just sleep is a mod that changes the spawn point setting behaviour of beds.",
 				"sourcesUrl": "https://github.com/modmuss50/JustSleep",
 				"curseForgeProject": 307416
-			},
-			{
-				"id": "simplevoidworld",
-				"name": "Simple Void World",
-				"description": "One simple block, One empty world.",
-				"sourcesUrl": "https://github.com/modmuss50/SimpleVoidWorld",
-				"curseForgeProject": 254466
 			}
 		]
 	},
