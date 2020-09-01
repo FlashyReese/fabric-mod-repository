@@ -405,6 +405,21 @@
 		]
 	},
 	{
+		"name": "Motschen",
+		"contacts": {
+			"githubUrl": "https://github.com/Motschen"
+		},
+		"projects": [
+			{
+				"id": "blur",
+				"name": "Blur",
+				"description": "Modifies the background behind Minecraft GUIs to have a blur effect",
+				"sourcesUrl": "https://github.com/Motschen/Blur",
+				"curseForgeProject": 393563
+			}
+		]
+	},
+	{
 		"name": "maruohon",
 		"contacts": {
 			"githubUrl": "https://github.com/maruohon"
