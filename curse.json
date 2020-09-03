@@ -371,6 +371,13 @@
 				"description": "Powerful spawners for any mob!",
 				"sourcesUrl": "https://github.com/TehNut/Soul-Shards-Respawn",
 				"curseForgeProject": 291549
+			},
+			{
+				"id": "waila",
+				"name": "Hwyla",
+				"description": "What am I looking at?",
+				"sourcesUrl": "https://github.com/TehNut/HWYLA",
+				"curseForgeProject": 253449
 			}
 		]
 	},
@@ -587,6 +594,125 @@
 				"description": "A Mod about matter, energy and using them to conquer the world..",
 				"sourcesUrl": "https://github.com/AppliedEnergistics/Applied-Energistics-2",
 				"curseForgeProject": 223794
+			}
+		]
+	},
+	{
+		"name": "asiekierka",
+		"contacts": {
+			"githubUrl": "https://github.com/asiekierka",
+			"websiteUrl": "https://asie.pl/"
+		},
+		"projects": []
+	},
+	{
+		"name": "TechnicianLP",
+		"contacts": {
+			"githubUrl": "https://github.com/TechnicianLP"
+		},
+		"projects": [
+			{
+				"id": "reauth",
+				"name": "ReAuth",
+				"description": "A Mod to renew your Session",
+				"sourcesUrl": "https://github.com/TechnicianLP/ReAuth",
+				"curseForgeProject": 237701
+			}
+		]
+	},
+	{
+		"name": "Vazkii",
+		"contacts": {
+			"githubUrl": "https://github.com/Vazkii"
+		},
+		"projects": [
+			{
+				"id": "patchouli",
+				"name": "Patchouli",
+				"description": "Patchouli: Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers",
+				"sourcesUrl": "https://github.com/Vazkii/Patchouli",
+				"curseForgeProject": 306770
+			}
+		]
+	},
+	{
+		"name": "MamiyaOtaru",
+		"contacts": {
+			"patreonUrl": "https://www.patreon.com/MamiyaOtaru"
+		},
+		"projects": [
+			{
+				"id": "voxelmap",
+				"name": "VoxelMap",
+				"description": "Minimap and world map",
+				"sourcesUrl": null,
+				"curseForgeProject": 225179
+			}
+		]
+	},
+	{
+		"name": "EwyBoy",
+		"contacts": {
+			"githubUrl": "https://github.com/EwyBoy"
+		},
+		"projects": [
+			{
+				"id": "craftablehorsearmour",
+				"name": "Craftable Horse Armour & Saddle",
+				"description": "Craftable Horse Armour & Saddle",
+				"sourcesUrl": null,
+				"curseForgeProject": 224841
+			}
+		]
+	},
+	{
+		"name": "Xaero",
+		"contacts": {
+			"websiteUrl": "https://chocolateminecraft.com/"
+		},
+		"projects": [
+			{
+				"id": "xaerominimap",
+				"name": "Xaero's Minimap",
+				"description": "The most vanilla-looking minimap for Minecraft.",
+				"sourcesUrl": "https://chocolateminecraft.com/minimap2.php",
+				"curseForgeProject": 263420
+			},
+			{
+				"id": "xaerominimapfair",
+				"name": "Xaero's Minimap Fair-Play",
+				"description": "The fair-play version of the most \"vanilla-looking\" minimap for Minecraft.",
+				"sourcesUrl": "https://chocolateminecraft.com/minimap2.php",
+				"curseForgeProject": 263466
+			},
+			{
+				"id": "xaeroworldmap",
+				"name": "Xaero's World Map",
+				"description": "A self-writing fullscreen map which also works as an add-on to Xaero's Minimap.",
+				"sourcesUrl": "https://chocolateminecraft.com/worldmap.php",
+				"curseForgeProject": 317780
+			}
+		]
+	},
+	{
+		"name": "TheRandomLabs",
+		"contacts": {
+			"githubUrl": "https://github.com/TheRandomLabs"
+		},
+		"projects": [
+			{
+				"id": "randompatches",
+				"name": "RandomPatches",
+				"description": "A bunch of miscellaneous patches for Minecraft.",
+				"sourcesUrl": "https://github.com/TheRandomLabs/RandomPatches",
+				"curseForgeProject": 285612
+			},
+			{
+				"id": "randompatches",
+				"name": "RandomPatches",
+				"description": "A bunch of miscellaneous patches for Minecraft.",
+				"sourcesUrl": "https://github.com/TheRandomLabs/RandomPatches",
+				"curseForgeProject": 396245
 			}
 		]
 	},
