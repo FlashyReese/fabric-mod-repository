@@ -124,7 +124,7 @@
 				"name": "LambdaBetterGrass",
 				"description": "Adds actual better grass.",
 				"sourcesUrl": "https://github.com/LambdAurora/LambdaBetterGrass",
-				"curseForgeProject": -1
+				"curseForgeProject": 400322
 			},
 			{
 				"id": "aurora_keystrokes",
