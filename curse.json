@@ -301,6 +301,112 @@
 		]
 	},
 	{
+		"name": "haykam821",
+		"contacts": {
+			"githubUrl": "https://github.com/haykam821",
+			"discordUrl": "https://discord.gg/eXcffmW"
+		},
+		"projects": [
+			{
+				"id": "raisedclouds",
+				"name": "Raised Clouds",
+				"description": "Allows changing the height at which clouds appear.",
+				"sourcesUrl": "https://github.com/haykam821/Raised-Clouds",
+				"curseForgeProject": 404491
+			}
+		]
+	},
+	{
+		"name": "Digifox03",
+		"contacts": {
+			"githubUrl": "https://github.com/Digifox03"
+		},
+		"projects": [
+			{
+				"id": "varied-mobs",
+				"name": "Varied Mobs",
+				"description": "allows resource packs to have randomly selected multiple textures for mobs",
+				"sourcesUrl": "https://github.com/Digifox03/variedMobs",
+				"curseForgeProject": 399578
+			}
+		]
+	},
+	{
+		"name": "Neecko",
+		"contacts": {
+			"githubUrl": "https://github.com/A5b84"
+		},
+		"projects": [
+			{
+				"id": "dark-loading-screen",
+				"name": "Dark Loading Screen",
+				"description": "Makes the loading screen darker\n\nIn-game configuration is only available in 1.16.2 and later.",
+				"sourcesUrl": "https://github.com/A5b84/dark-loading-screen",
+				"curseForgeProject": 365727
+			}
+		]
+	},
+	{
+		"name": "Trikzon",
+		"contacts": {
+			"githubUrl": "https://github.com/Trikzon"
+		},
+		"projects": [
+			{
+				"id": "transparent",
+				"name": "Transparent",
+				"description": "Allows paintings and item frames to be transparent!",
+				"sourcesUrl": "https://github.com/Trikzon/Transparent",
+				"curseForgeProject": 377582
+			}
+		]
+	},
+	{
+		"name": "Tfarcenim",
+		"contacts": {
+			"githubUrl": "https://github.com/Tfarcenim"
+		},
+		"projects": [
+			{
+				"id": "cullparticles",
+				"name": "Cull Particles",
+				"description": "Don't render particles that can't be seen",
+				"sourcesUrl": "https://github.com/Tfarcenim/CullParticlesFabric",
+				"curseForgeProject": 363269
+			}
+		]
+	},
+	{
+		"name": "juliand665",
+		"contacts": {
+			"githubUrl": "https://github.com/juliand665"
+		},
+		"projects": [
+			{
+				"id": "dynamicfps",
+				"name": "Dynamic FPS",
+				"description": "Dynamically adjusts FPS so minecraft doesn't hog resources in background.",
+				"sourcesUrl": "https://github.com/juliand665/Dynamic-FPS",
+				"curseForgeProject": 335493
+			}
+		]
+	},
+	{
+		"name": "comp500",
+		"contacts": {
+			"githubUrl": "https://github.com/comp500"
+		},
+		"projects": [
+			{
+				"id": "motiono",
+				"name": "motioNO",
+				"description": "Stops Minecraft from changing the FoV when running, using potions and bows, etc.",
+				"sourcesUrl": "https://github.com/comp500/motioNO",
+				"curseForgeProject": 376366
+			}
+		]
+	},
+	{
 		"name": "joaoh1",
 		"contacts": {
 			"githubUrl": "https://github.com/joaoh1"
