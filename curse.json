@@ -866,5 +866,20 @@
 				"curseForgeProject": 373138
 			}
 		]
+	},
+	{
+		"name": "AMereBagatelle",
+		"contacts": {
+			"githubUrl": "https://github.com/AMereBagatelle"
+		},
+		"projects": [
+			{
+				"id": "fabricskyboxes",
+				"name": "Fabric SkyBoxes",
+				"description": "Adds custom skybox support to MC",
+				"sourcesUrl": "https://github.com/AMereBagatelle/fabricskyboxes",
+				"curseForgeProject": 408209
+			}
+		]
 	}
 ]
