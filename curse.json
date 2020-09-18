@@ -870,7 +870,8 @@
 	{
 		"name": "AMereBagatelle",
 		"contacts": {
-			"githubUrl": "https://github.com/AMereBagatelle"
+			"githubUrl": "https://github.com/AMereBagatelle",
+			"discordUrl": "https://discord.gg/quvzkaV"
 		},
 		"projects": [
 			{
@@ -879,6 +880,20 @@
 				"description": "Adds custom skybox support to MC",
 				"sourcesUrl": "https://github.com/AMereBagatelle/fabricskyboxes",
 				"curseForgeProject": 408209
+			},
+			{
+				"id": "afkpeace",
+				"name": "AFKPeace",
+				"description": "A mod to make going AFK on servers much easier, with rejoining and respawning features.",
+				"sourcesUrl": "https://github.com/AMereBagatelle/AFKPeace",
+				"curseForgeProject": 380938
+			},
+			{
+				"id": "mcg",
+				"name": "MCG",
+				"description": "A mod to list all your coordinates, and that has simple saving of coordinates, so that you don't have to remember them!",
+				"sourcesUrl": "https://github.com/AMereBagatelle/MCG",
+				"curseForgeProject": 396948
 			}
 		]
 	}
