@@ -896,5 +896,20 @@
 				"curseForgeProject": 396948
 			}
 		]
+	},
+	{
+		"name": "FlashyReese",
+		"contacts": {
+			"githubUrl": "https://github.com/FlashyReese"
+		},
+		"projects": [
+			{
+				"id": "commandaliases",
+				"name": "Command Aliases",
+				"description": "Alternate short commands for complex commands (with tab completion)",
+				"sourcesUrl": "https://github.com/FlashyReese/CommandAliases",
+				"curseForgeProject": 409389
+			}
+		]
 	}
 ]
