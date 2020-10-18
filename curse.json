@@ -911,5 +911,66 @@
 				"curseForgeProject": 409389
 			}
 		]
+	},
+	{
+		"name": "Levoment",
+		"contacts": {
+			"githubUrl": "https://github.com/Levoment"
+		},
+		"projects": [
+			{
+				"id": "lvmnt",
+				"name": "SuperAxes",
+				"description": "A mod for chopping down trees for easier wood resource gathering",
+				"sourcesUrl": "https://github.com/Levoment/SuperAxes",
+				"curseForgeProject": 360386
+			}
+		]
+	},
+	{
+		"name": "Juuxel",
+		"contacts": {
+			"githubUrl": "https://github.com/Juuxel"
+		},
+		"projects": [
+			{
+				"id": "adorn",
+				"name": "Adorn",
+				"description": "Decorate your home!",
+				"sourcesUrl": "https://github.com/Juuxel/Adorn",
+				"curseForgeProject": 320215
+			}
+		]
+	},
+	{
+		"name": "Mixinors",
+		"contacts": {
+			"githubUrl": "https://github.com/Mixinors",
+			"discordUrl": "https://discord.gg/DUmAxjS"
+		},
+		"projects": [
+			{
+				"id": "astromine",
+				"name": "Astromine",
+				"description": "A space-themed technological modification with exploration, weapons and progression in mind.",
+				"sourcesUrl": "https://github.com/Mixinors/Astromine",
+				"curseForgeProject": 391739
+			}
+		]
+	},
+	{
+		"name": "SuperCoder79",
+		"contacts": {
+			"githubUrl": "https://github.com/SuperCoder7979"
+		},
+		"projects": [
+			{
+				"id": "cavebiomes",
+				"name": "Cave Biomes",
+				"description": "Cave biomes",
+				"sourcesUrl": "https://github.com/SuperCoder7979/cavebiomes",
+				"curseForgeProject": 371307
+			}
+		]
 	}
 ]
